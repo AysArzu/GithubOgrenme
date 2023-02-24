@@ -7,6 +7,9 @@ public class Class01 {
         System.out.println("merhaba");
         System.out.println("halloldu hersey yolunda");
 
+//deneme
+
+        System.out.println("deneme dereler ama deneriz");
 
 
     }
